@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoCopo", "JogoCopo\JogoCopo.csproj", "{0226EE1B-3105-4A44-AF25-F3AF479481CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0226EE1B-3105-4A44-AF25-F3AF479481CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0226EE1B-3105-4A44-AF25-F3AF479481CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0226EE1B-3105-4A44-AF25-F3AF479481CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0226EE1B-3105-4A44-AF25-F3AF479481CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE0A408B-4A72-434D-A037-749F071A060B}
+	EndGlobalSection
+EndGlobal
